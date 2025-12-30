@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and astronomy
 - 🌱 I’m currently learning Python, Linux, and Terraform Cloud
 - 💞️ I’m looking to collaborate on ALL things security.
-- 📫 How to reach me #rofine2011 on Discord
+- 📫 How to reach me #rofine2011 on Discord. Normally hanging out in the SimplyCyber & BHIS [Black Hills InfoSec] Genaral chat ;-)
 
 <!---
 rofine2011/rofine2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
